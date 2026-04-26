@@ -1,4 +1,4 @@
-# CafeSync Management System Applicatiom
+# CafeSync Management System Application
 
 A premium full-stack cafe management suite featuring real-time orders, billing, inventory, and reservation management.
 
