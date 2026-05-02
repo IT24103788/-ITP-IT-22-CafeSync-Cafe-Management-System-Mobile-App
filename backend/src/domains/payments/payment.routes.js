@@ -17,3 +17,4 @@ router.route('/:id')
   .delete(authorize('admin'), deletePayment);
 
 module.exports = router;
+
